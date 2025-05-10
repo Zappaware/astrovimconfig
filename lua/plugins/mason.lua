@@ -9,18 +9,33 @@ return {
     opts = {
       -- Make sure to use the names found in `:Mason`
       ensure_installed = {
-        -- install language servers
-        "lua-language-server",
-
-        -- install formatters
-        "stylua",
-
-        -- install debuggers
+        "asm-lsp",
+        "ast-grep",
+        "basedpyright",
+        "biome",
+        "black",
+        "chrome-debug-adapter",
+        "clangd",
+        "cmake-language-server",
+        "cobol-language-support",
+        "codelldb",
+        "copilot-language-server",
+        "csharp-language-server",
+        "csharpier",
         "debugpy",
-
-        -- install any other package
-        --"tree-sitter-cli",
-      },
+        "django-template-lsp",
+        "firefox-debug-adapter",
+        "isort",
+        "jinja-lsp",
+        "js-debug-adapter",
+        "lua-language-server",
+        "netcoredbg",
+        "prettier",
+        "sonarlint-language-server",
+        "stylua",
+        "tailwindcss-language-server",
+        "taplo"
+    },
     },
   },
 }
