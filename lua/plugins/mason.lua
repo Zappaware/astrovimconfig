@@ -34,8 +34,8 @@ return {
         "sonarlint-language-server",
         "stylua",
         "tailwindcss-language-server",
-        "taplo"
-    },
+        "taplo",
+      },
     },
   },
 }
