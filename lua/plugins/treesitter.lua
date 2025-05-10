@@ -10,6 +10,7 @@ return {
       -- add more arguments for adding more treesitter parsers
       "html",
       "css",
+      "javascript",
     },
   },
 }
