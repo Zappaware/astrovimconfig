@@ -1,5 +1,5 @@
 {
-  "AstroNvim": { "branch": "main", "commit": "2bb2fa9a01311ae7f9bfebf7b3ae996bcc4717be" },
+  "AstroNvim": { "branch": "main", "commit": "f9bce33cab08bd3c327f8a1619eba63c9b7262ae" },
   "Comment.nvim": { "branch": "master", "commit": "e30b7f2008e52442154b66f7c519bfd2f1e32acb" },
   "LuaSnip": { "branch": "master", "commit": "458560534a73f7f8d7a11a146c801db00b081df0" },
   "aerial.nvim": { "branch": "master", "commit": "6ab1a0ce4874d21610fc5a67a6c82c7b943c635b" },
@@ -13,7 +13,7 @@
   "blink.compat": { "branch": "main", "commit": "2ed6d9a28b07fa6f3bface818470605f8896408c" },
   "catppuccin": { "branch": "main", "commit": "30fa4d122d9b22ad8b2e0ab1b533c8c26c4dde86" },
   "cmp-dap": { "branch": "master", "commit": "ea92773e84c0ad3288c3bc5e452ac91559669087" },
-  "copilot.lua": { "branch": "master", "commit": "e73fe7c43c68aeb84fbeed12ee6cc60a29e78fbb" },
+  "copilot.lua": { "branch": "master", "commit": "81d289a8ce5d4ee1dea9b1c8ee4ac376b2e27a5f" },
   "crates.nvim": { "branch": "main", "commit": "ac9fa498a9edb96dc3056724ff69d5f40b898453" },
   "friendly-snippets": { "branch": "main", "commit": "572f5660cf05f8cd8834e096d7b4c921ba18e175" },
   "gitsigns.nvim": { "branch": "main", "commit": "7010000889bfb6c26065e0b0f7f1e6aa9163edd9" },
